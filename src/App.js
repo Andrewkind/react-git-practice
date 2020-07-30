@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <h1>Git Branching / Merge Practice</h1>
-      <p>Let's practice fantastic Git Branching and Merging!</p>
+      <p>Let's practice uber Git Branching and Merging!</p>
       <About />
       <Services />
       <Contact />
